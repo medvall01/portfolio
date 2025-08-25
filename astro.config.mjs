@@ -10,7 +10,8 @@ export default defineConfig({
   },
 
   integrations: [react()],
-   base: '/portfolio/', // <-- remplace par le nom de ton repo
+    base: '/portfolio/', // <-- remplace par le nom de ton repo
+
 });
 
 
