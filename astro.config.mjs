@@ -11,7 +11,6 @@ export default defineConfig({
 
   integrations: [react()],
     site: 'https://medvall01.github.io',
-      base: '/portfolio',
 
 });
 
